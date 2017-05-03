@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Hesham Salama Part"
+        android:id="@+id/salama"
+        android:icon="@mipmap/salama"
+        />
+    <item
+        android:title="Morsy Part"
+        android:id="@+id/morsy"
+        android:icon="@mipmap/users"
+        />
+
+
+</menu>
